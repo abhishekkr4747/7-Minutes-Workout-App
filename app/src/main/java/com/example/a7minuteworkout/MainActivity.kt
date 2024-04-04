@@ -1,1 +1,57 @@
-Ly8gSW1wb3J0IHRoZSByZXF1aXJlZCBjbGFzc2VzCnBhY2thZ2UgY29tLmV4YW1wbGUubm90ZXNhcHBfaW50ZXJuc2hhbGEuYWNpdGl2aXR5CmltcG9ydCBhbmRyb2lkeC5hcHBjb21wYXQuYXBwLkFwcENvbXBhdEFjdGl2aXR5CmltcG9ydCBhbmRyb2lkLm9zLkJ1bmRsZQppbXBvcnQgYW5kcm9pZC5vcy5IYW5kbGVyCmltcG9ydCBhbmRyb2lkLndpZGdldC5Ub2FzdAppbXBvcnQgYW5kcm9pZHgubmF2aWdhdGlvbi5OYXZDb250cm9sbGVyCmltcG9ydCBhbmRyb2lkeC5uYXZpZ2F0aW9uLmZyYWdtZW50Lk5hdkhvc3RGcmFnbWVudAppbXBvcnQgY29tLmV4YW1wbGUubm90ZXNhcHBfaW50ZXJuc2hhbGEuUgppbXBvcnQgY29tLmV4YW1wbGUubm90ZXNhcHBfaW50ZXJuc2hhbGEuZnJhZ21lbnRzLk5vdGVzRnJhZ21lbnQKCi8vIERlZmluZSB0aGUgTWFpbkFjdGl2aXR5IGNsYXNzCmNsYXNzIE1haW5BY3Rpdml0eSA6IEFwcENvbXBhdEFjdGl2aXR5KCkgewogICAgLy8gSW5pdGlhbGl6ZSBhIHZhcmlhYmxlIHRvIHRyYWNrIHdoZXRoZXIgdGhlIGJhY2sgYnV0dG9uIGhhcyBiZWVuIHByZXNzZWQgb25jZQogICAgcHJpdmF0ZSB2YXIgYmFja1ByZXNzZWRPbmNlID0gZmFsc2UKCiAgICAvLyBPdmVycmlkZSB0aGUgb25DcmVhdGUgbWV0aG9kCiAgICBvdmVycmlkZSBmdW4gb25DcmVhdGUoc2F2ZWRJbnN0YW5jZVN0YXRlOiBCdW5kbGU/KSB7CiAgICAgICAgc3VwZXIub25DcmVhdGUoc2F2ZWRJbnN0YW5jZVN0YXRlKQoKICAgICAgICAvLyBTZXQgdGhlIGNvbnRlbnQgdmlldwogICAgICAgIHNldENvbnRlbnRWaWV3KFIubGF5b3V0LmFjdGl2aXR5X21haW4pCgogICAgICAgIC8vIEluaXRpYWxpemUgdGhlIE5hdkNvbnRyb2xsZXIKICAgICAgICB2YWwgbmF2Q29udHJvbGxlcjogTmF2Q29udHJvbGxlcgogICAgICAgIC8vIEdldCB0aGUgTmF2SG9zdEZyYWdtZW50CiAgICAgICAgdmFsIG5hdkhvc3RGcmFnbWVudCA9IHN1cHBvcnRGcmFnbWVudE1hbmFnZXIuZmluZEZyYWdtZW50QnlJZChSLmlkLm5hdl9ob3N0X2ZyYWdtZW50KSBhcyBOYXZIb3N0RnJhZ21lbnQKICAgICAgICAvLyBHZXQgdGhlIE5hdkNvbnRyb2xsZXIgZnJvbSB0aGUgTmF2SG9zdEZyYWdtZW50CiAgICAgICAgbmF2Q29udHJvbGxlciA9IG5hdkhvc3RGcmFnbWVudC5uYXZDb250cm9sbGVyCiAgICAgICAgLy8gU2V0IHRoZSBncmFwaCBmb3IgdGhlIE5hdkNvbnRyb2xsZXIKICAgICAgICBuYXZDb250cm9sbGVyLnNldEdyYXBoKFIubmF2aWdhdGlvbi5uYXZfZ3JhcGgpCiAgICB9CgogICAgLy8gT3ZlcnJpZGUgdGhlIG9uQmFja1ByZXNzZWQgbWV0aG9kCiAgICBvdmVycmlkZSBmdW4gb25CYWNrUHJlc3NlZCgpIHsKICAgICAgICAvLyBDaGVjayBpZiB0aGUgY3VycmVudCBmcmFnbWVudCBpcyBOb3Rlc0ZyYWdtZW50CiAgICAgICAgdmFsIGN1cnJlbnRGcmFnbWVudCA9IHN1cHBvcnRGcmFnbWVudE1hbmFnZXIuZmluZEZyYWdtZW50QnlJZChSLmlkLm5hdl9ob3N0X2ZyYWdtZW50KQogICAgICAgIGlmIChjdXJyZW50RnJhZ21lbnQgaXMgTm90ZXNGcmFnbWVudCkgewogICAgICAgICAgICAvLyBDaGVjayBpZiB0aGUgYmFjayBidXR0b24gaGFzIGJlZW4gcHJlc3NlZCBvbmNlCiAgICAgICAgICAgIGlmIChiYWNrUHJlc3NlZE9uY2UpIHsKICAgICAgICAgICAgICAgIC8vIElmIHRoZSBiYWNrIGJ1dHRvbiBoYXMgYmVlbiBwcmVzc2VkIG9uY2UsIGV4aXQgdGhlIGFwcGxpY2F0aW9uCiAgICAgICAgICAgICAgICBzdXBlci5vbkJhY2tQcmVzc2VkKCkKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIC8vIElmIHRoZSBiYWNrIGJ1dHRvbiBoYXMgbm90IGJlZW4gcHJlc3NlZCBvbmNlLCBzaG93IGEgbWVzc2FnZSBhbmQgcmVzZXQgdGhlIGZsYWcgYWZ0ZXIgYSBkZWxheQogICAgICAgICAgICAgICAgVG9hc3QubWFrZVRleHQodGhpcywgIlByZXNzIGJhY2sgYWdhaW4gdG8gZXhpdCIsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpCiAgICAgICAgICAgICAgICBiYWNrUHJlc3NlZE9uY2UgPSB0cnVlCiAgICAgICAgICAgICAgICBIYW5kbGVyKCkucG9zdERlbGF5ZWQoewogICAgICAgICAgICAgICAgICAgIGJhY2tQcmVzc2VkT25jZSA9IGZhbHNlCiAgICAgICAgICAgICAgICB9LCAyMDAwKQogICAgICAgICAgICB9CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgLy8gSWYgdGhlIGN1cnJlbnQgZnJhZ21lbnQgaXMgbm90IE5vdGVzRnJhZ21lbnQsIHByb2NlZWQgd2l0aCB0aGUgZGVmYXVsdCBiZWhhdmlvcgogICAgICAgICAgICBzdXBlci5vbkJhY2tQcmVzc2VkKCkKICAgICAgICB9CiAgICB9Cn0=
+
+// Import the required classes
+package com.example.notesapp_internshala.acitivity
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+import android.os.Handler
+import android.widget.Toast
+import androidx.navigation.NavController
+import androidx.navigation.fragment.NavHostFragment
+import com.example.notesapp_internshala.R
+import com.example.notesapp_internshala.fragments.NotesFragment
+
+// Define the MainActivity class
+class MainActivity : AppCompatActivity() {
+    // Initialize a variable to track whether the back button has been pressed once
+    private var backPressedOnce = false
+
+    // Override the onCreate method
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+
+        // Set the content view
+        setContentView(R.layout.activity_main)
+
+        // Initialize the NavController
+        val navController: NavController
+        // Get the NavHostFragment
+        val navHostFragment = supportFragmentManager.findFragmentById(R.id.nav_host_fragment) as NavHostFragment
+        // Get the NavController from the NavHostFragment
+        navController = navHostFragment.navController
+        // Set the graph for the NavController
+        navController.setGraph(R.navigation.nav_graph)
+    }
+
+    // Override the onBackPressed method
+    override fun onBackPressed() {
+        // Check if the current fragment is NotesFragment
+        val currentFragment = supportFragmentManager.findFragmentById(R.id.nav_host_fragment)
+        if (currentFragment is NotesFragment) {
+            // Check if the back button has been pressed once
+            if (backPressedOnce) {
+                // If the back button has been pressed once, exit the application
+                super.onBackPressed()
+            } else {
+                // If the back button has not been pressed once, show a message and reset the flag after a delay
+                Toast.makeText(this, "Press back again to exit", Toast.LENGTH_SHORT).show()
+                backPressedOnce = true
+                Handler().postDelayed({
+                    backPressedOnce = false
+                }, 2000)
+            }
+        } else {
+            // If the current fragment is not NotesFragment, proceed with the default behavior
+            super.onBackPressed()
+        }
+    }
+}
